@@ -32,8 +32,10 @@ Pitch 1.0: <https://www.youtube.com/watch?v=-0xjSqlzxls>
 
 Pitch 2.0: <https://www.youtube.com/watch?v=cUR5p88H2Q0>
 
-## Link da Aplicação via FireBase Hosting
+## Links da Aplicação via Heroku e Firebase
 
-A aplicação foi criada utilizando a estrutura de BackEnd Spring Boot Maven Java pela IDE IntelliJ IDEA, conectando em um banco de dados MySQL e implementado na plataforma de desenvolvimento Firebase da Google. Qualquer usuário com o link pode acessar a aplicação web. Atualmente estamos com o desenvolvimento fullstack em curso, então será possível acessar apenas o FrontEnd da página no link (que também encontra-se em desenvolvimento).
+A aplicação foi criada utilizando a estrutura de BackEnd Spring Boot Maven Java pela IDE IntelliJ IDEA, conectando em um banco de dados PostgreSQL (integrado) e implementado na plataforma de hospedagem em nuvem, Heroku. Na parte do FrontEnd, desenvolvemos uma aplicação web utilizando a biblioteca ReactJS, com outros frameworks e ferramentas, e hospedamos na plataforma de desenvolvimento e hospedagem Firebase. Realizamos os testes e CRUD funcionou perfeitamente através do formulário na aba de contatos.
 
-Links: <https://bienvenido-app.web.app/> ou <https://bienvenido-app.firebaseapp.com/>
+Link Heroku/BackEnd: <https://bienvenidoapp-backend.herokuapp.com/>
+Link Firebase/FrontEnd: <https://bienvenido-app.web.app/> ou <https://bienvenido-app.firebaseapp.com/>
+
