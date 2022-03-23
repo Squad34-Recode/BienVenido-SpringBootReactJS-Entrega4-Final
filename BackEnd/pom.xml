@@ -8,14 +8,14 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>Bienvenidoapp</artifactId>
+	<groupId>com.bienvenido</groupId>
+	<artifactId>ApiBienVenido</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Bienvenidoapp</name>
-	<description>Projeto social da RecodePro, que consiste em uma aplicação web contendo informações gerais sobre o Brasil, com foco direcionado para refugiados.</description>
-	<properties>
-		<java.version>17</java.version>
-	</properties>
+	<name>ApiBienVenido</name>
+	<description>Api para consulta e cadastro de currículos</description>
+	<!-- <properties>
+		<java.version>11</java.version>
+	</properties> -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -27,9 +27,25 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+     		<scope>runtime</scope>
+    	</dependency>
+		<!-- <dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
+		</dependency> -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -43,6 +59,14 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<excludes>
+						<exclude>
+							<groupId>org.projectlombok</groupId>
+							<artifactId>lombok</artifactId>
+						</exclude>
+					</excludes>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
