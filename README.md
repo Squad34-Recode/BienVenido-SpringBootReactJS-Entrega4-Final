@@ -12,7 +12,7 @@ Este projeto foi desenvolvido em grupo pelo Squad 34 formado pelos seguintes int
 <p><a href="https://github.com/DiogaoRecode" target="_blank">Diogo Reis --> BackEnd e DataBase</a></p>
 <p><a href="https://github.com/Gabriel-Richard" target="_blank">Gabriel Richard --> FullStack e Colaboração Criativa</a></p>
 
-Nesta etapa, realizamos a 3ª entrega do projeto social (15/02/2022) conforme os requisitos propostos pela Recode, incluindo a antecipação de alguns itens da próxima entrega (final). Fizemos o refactory do Back End de C# para Java e do FrontEnd no código html/css/js "raiz" para o ReactJS (states, props, hooks, routes, componentes, etc.) e com algumas páginas em ReactBootstrap.
+Nesta etapa final, realizamos a 4ª entrega do projeto social (24/03/2022) conforme os requisitos propostos pela Recode. Fizemos o refactory do Back End de C# para Java e do FrontEnd no código html/css/js "raiz" para o ReactJS (states, props, hooks, routes, componentes, etc.) e com algumas páginas em ReactBootstrap, dentre o uso de outros frameworks e ferramentas.
 
 ## Quadro Organizacional e de Planejamento no Miro (Bastidores)
 
