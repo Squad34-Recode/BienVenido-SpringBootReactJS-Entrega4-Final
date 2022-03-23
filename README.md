@@ -6,7 +6,7 @@ Projeto Social integrador do Programa de formação profissional em FullStack De
 Consiste em uma aplicação da Web contendo informações gerais do Brasil para refugiados da América Latina (ou de países de língua espanhola).
 Este projeto foi desenvolvido em grupo pelo Squad 34 formado pelos seguintes integrantes:
 
-<p><a href="https://github.com/Pedrogsouza" target="_blank">João Pedro de Souza --> FrontEnd Developer e UI/UX Designer</a></p>
+<p><a href="https://github.com/Pedrogsouza" target="_blank">João Pedro de Souza --> FrontEnd Developer, UI/UX Designer e Video Editor</a></p>
 <p><a href="https://github.com/P728" target="_blank">Pedro Augusto J Santos --> FrontEnd Developer</a></p>
 <p><a href="https://github.com/CJBiohacker" target="_blank">Carlos de Lima Junior --> FullStack Developer e Scrum Master</a></p>
 <p><a href="https://github.com/DiogaoRecode" target="_blank">Diogo Reis --> FullStack Developer</a></p>
@@ -16,13 +16,13 @@ Nesta etapa final, realizamos a 4ª entrega do projeto social (24/03/2022) confo
 
 ## Quadro Organizacional e de Planejamento no Miro (Bastidores)
 
-Para a 2ª apresentação (24/02/2022), criamos outro Quadro de Desenvolvimento no mesmo link com prints que mostram as mudanças cruciais que ocorreram durante o refactory e o planejamento, e na implementação das modificações sugeridas no feedback do Conselho de Avaliação da Recode. Além do quadro, criamos outra linha do tempo continuando as etapas de desenvolvimento do Squad 34.
+Para apresentação final (24/03/2022), criamos outro Quadro de Desenvolvimento no mesmo link com prints que mostram as mudanças cruciais que ocorreram durante o refactory e o planejamento, e na implementação das modificações sugeridas no feedback do Conselho de Avaliação da Recode. Além do quadro, criamos outra linha do tempo continuando as etapas de desenvolvimento do Squad 34.
 
 Link: <https://miro.com/app/board/o9J_lnyNEBg=/>
 
 ## Slides e Videos (Pitch e Demo)
 
-Criamos um Pitch novo (versão 2.0) com as atualizações presentes até o ponto atual (3ª Entrega do Projeto Social). Mantemos os materiais anteriores, para se ter um comparativo cronológico da evolução do projeto. Seguem os links abaixo:
+Criamos um Pitch novo (versão 2.0) com as atualizações presentes até o ponto atual (4ª Entrega do Projeto Social). Mantemos os materiais anteriores, para se ter um comparativo cronológico da evolução do projeto. Seguem os links abaixo:
 
 Slides: <https://www.canva.com/design/DAExIk4NAaw/RyvIaaHFbwIj6YAQsY13FA/view?utm_content=DAExIk4NAaw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink>
 
@@ -39,4 +39,3 @@ Realizamos os testes de CRUD nos formulários do site e tudo está 100% funciona
 
 Link Heroku/BackEnd: <https://bienvenidoapp-backend.herokuapp.com/> <br>
 Link Firebase/FrontEnd: <https://bienvenido-app.web.app/> ou <https://bienvenido-app.firebaseapp.com/>
-
