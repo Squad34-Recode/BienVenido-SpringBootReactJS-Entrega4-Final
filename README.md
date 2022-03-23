@@ -6,11 +6,11 @@ Projeto Social integrador do Programa de formação profissional em FullStack De
 Consiste em uma aplicação da Web contendo informações gerais do Brasil para refugiados da América Latina (ou de países de língua espanhola).
 Este projeto foi desenvolvido em grupo pelo Squad 34 formado pelos seguintes integrantes:
 
-<p><a href="https://github.com/Pedrogsouza" target="_blank">João Pedro de Souza --> FrontEnd e UI/UX Designer</a></p>
-<p><a href="https://github.com/P728" target="_blank">Pedro Augusto J Santos --> FrontEnd</a></p>
-<p><a href="https://github.com/CJBiohacker" target="_blank">Carlos de Lima Junior --> BackEnd, DataBase e Scrum Master</a></p>
-<p><a href="https://github.com/DiogaoRecode" target="_blank">Diogo Reis --> BackEnd e DataBase</a></p>
-<p><a href="https://github.com/Gabriel-Richard" target="_blank">Gabriel Richard --> FullStack e Colaboração Criativa</a></p>
+<p><a href="https://github.com/Pedrogsouza" target="_blank">João Pedro de Souza --> FrontEnd Developer e UI/UX Designer</a></p>
+<p><a href="https://github.com/P728" target="_blank">Pedro Augusto J Santos --> FrontEnd Developer</a></p>
+<p><a href="https://github.com/CJBiohacker" target="_blank">Carlos de Lima Junior --> FullStack Developer e Scrum Master</a></p>
+<p><a href="https://github.com/DiogaoRecode" target="_blank">Diogo Reis --> FullStack Developer</a></p>
+<p><a href="https://github.com/Gabriel-Richard" target="_blank">Gabriel Richard --> FullStack Developer e Colaboração Criativa</a></p>
 
 Nesta etapa final, realizamos a 4ª entrega do projeto social (24/03/2022) conforme os requisitos propostos pela Recode. Fizemos o refactory do Back End de C# para Java e do FrontEnd no código html/css/js "raiz" para o ReactJS (states, props, hooks, routes, componentes, etc.) e com algumas páginas em ReactBootstrap, dentre o uso de outros frameworks e ferramentas.
 
@@ -36,6 +36,6 @@ Pitch 2.0: <https://www.youtube.com/watch?v=cUR5p88H2Q0>
 
 A aplicação foi criada utilizando a estrutura de BackEnd Spring Boot Maven Java pela IDE IntelliJ IDEA, conectando em um banco de dados PostgreSQL (integrado) e implementado na plataforma de hospedagem em nuvem, Heroku. Na parte do FrontEnd, desenvolvemos uma aplicação web utilizando a biblioteca ReactJS, com outros frameworks e ferramentas, e hospedamos na plataforma de desenvolvimento e hospedagem Firebase. Realizamos os testes e CRUD funcionou perfeitamente através do formulário na aba de contatos.
 
-Link Heroku/BackEnd: <https://bienvenidoapp-backend.herokuapp.com/>
+Link Heroku/BackEnd: <https://bienvenidoapp-backend.herokuapp.com/> <br>
 Link Firebase/FrontEnd: <https://bienvenido-app.web.app/> ou <https://bienvenido-app.firebaseapp.com/>
 
