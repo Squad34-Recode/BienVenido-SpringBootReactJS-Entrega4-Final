@@ -1,11 +1,11 @@
 import React from "react";
 import sobre from '../../images/sobre nos.png'
 
-const AboutTxt = () =>{
+const AboutTxt = () => {
     return (
         <section class="about">
             <div class="image">
-                <img src={sobre} alt="" />
+                <img src={sobre} alt="personagens reunidos" />
             </div>
 
             <div class="content">
@@ -14,7 +14,7 @@ const AboutTxt = () =>{
                     Somos un equipo de desarrolladores que apuntamos a
                     ayudar y colaborar con otros,
                     utilizando todas las herramientas y conocimientos a nuestra disposición. </p>
-                    <p>Ayudando así a todos aquellos que llegan aquí necesitados de refugio.
+                <p>Ayudando así a todos aquellos que llegan aquí necesitados de refugio.
                     y no sabes muy bien lo que te espera en este nuevo viaje de tu vida, en esta nueva tierra.
                     Y también aquellos que llevan un tiempo aquí pero necesitan ayuda,
                     que, a través de esta misma tecnología, podemos romper barreras y colaborar para

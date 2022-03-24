@@ -1,0 +1,157 @@
+* .breadcrumb-title {
+  padding: 50px 16px;
+  list-style: none;
+  background-color: #eee;
+}
+
+* .breadcrumb-title .breadcrumb {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  list-style: none;
+  font-size: 2rem;
+}
+
+* .breadcrumb-title .breadcrumb li {
+  padding: 0 5px;
+}
+
+* .breadcrumb-title .breadcrumb li ::before {
+  color: black;
+}
+
+* .breadcrumb-title .breadcrumb li :hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+
+* .slider {
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+* .slider .slider-image {
+  width: 70vh;
+  position: relative;
+  left: 31%;
+}
+
+@media screen and (max-width: 768px) {
+  * .slider {
+    margin-bottom: 5%;
+  }
+  
+  * .slider .slider-image {
+    width: 70vh;
+    position: relative;
+    left: 15%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  * .slider {
+    margin-bottom: 5%;
+  }
+  
+  * .slider .slider-image {
+    width: 70vh;
+    position: relative;
+    left: 8%;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  * .slider {
+    margin-bottom: 5%;
+  }
+  
+  * .slider .slider-image {
+    width: 70vh;
+    position: relative;
+    left: 2%;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  * .slider {
+    margin-bottom: 5%;
+  }
+  
+  * .slider .slider-image {
+    width: 70vh;
+    position: relative;
+    left: 0%;
+  }
+}
+
+
+* .slider .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  color: white;
+  padding: 2%;
+  margin-bottom: 1%;
+  font-size: 3rem;
+}
+* .carousel {
+  position: relative;
+}
+
+* .carousel .carousel-content {
+  width: 100vw;
+  height: 70vh;
+}
+
+* .carousel .carousel-content .content-container {
+  position: relative;
+  top: 120px;
+}
+
+* .carousel .carousel-content .content-container>h3 {
+  font-size: 5rem;
+  color: white;
+}
+
+* .carousel .carousel-content .content-container>p {
+  font-size: 2rem;
+  color: white;
+}
+
+* .carousel #carousel-content1 {
+  background: url(../images/vevenezubra.jpg) no-repeat;
+  background-position: 2%;
+}
+
+* .carousel #carousel-content2 {
+  background: url(../images/PicsArt_01-05-04.47.09.jpg) no-repeat;
+  background-size: cover;
+  background-position: 2%;
+}
+
+* .carousel #carousel-content3 {
+  background: url(../images/venezuela-refugees-bolivar.jpg) no-repeat;
+  background-size: cover;
+  background-position: 2%;
+}
+/*# sourceMappingURL=SlideSwiper.css.map */

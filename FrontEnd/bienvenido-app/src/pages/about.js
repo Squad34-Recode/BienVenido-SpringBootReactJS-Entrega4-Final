@@ -1,8 +1,27 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import AboutTxt from '../components/AboutComponents/AboutTxt';
+import SlideSwiper from '../components/AboutComponents/SlideSwiper';
 
-const about = () =>{
+import '../styles/SlideSwiper.css';
+
+const about = () => {
     return (
-        <h1>about</h1>
+        <>
+            <section className='breadcrumb-title'>
+                <h1>Acerca de</h1>
+                <ul class="breadcrumb">
+                    <li><Link to='/' className='breadcrumb-link'>Comienzo</Link></li>
+                    <li>/</li>
+                    <li>Acerca de</li>
+                </ul>
+            </section>
+            <AboutTxt />
+            <section className='teachers'>
+                <h1 className='heading'>← organizadores →</h1>
+            </section>
+            <SlideSwiper />
+        </ >
     )
 }
 export default about;

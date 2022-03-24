@@ -1,14 +1,15 @@
 import React from "react";
 import { Link } from 'react-router-dom';
+import aboutImg from '../../images/about-img.png';
 
 const CelApp = () => {
-    return (
-        <section className="aboutapp" id="aboutapp">
+  return (
+    <section className="aboutapp" id="aboutapp">
       <h1 className="heading">BienVenido APP</h1>
 
       <div className="row">
         <div className="image">
-          <img src="images/about-img.png" alt="" />
+          <img src={aboutImg} alt="" />
         </div>
 
         <div className="content">
@@ -27,7 +28,7 @@ const CelApp = () => {
         </div>
       </div>
     </section>
-    )
+  )
 }
 
 

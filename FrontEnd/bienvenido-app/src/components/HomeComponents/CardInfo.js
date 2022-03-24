@@ -2,16 +2,16 @@ import React from "react";
 import { Link } from 'react-router-dom';
 
 const CardInfo = (props) => {
-    const {pagBoots, imgSrc, imgAlt, textH3, textP} = props;
-        return (
-            <div className="box">
-                <Link to={pagBoots}>
-                    <img src={imgSrc} alt={imgAlt} />
-                    <h3>{textH3}</h3>
-                    <p>{textP}</p>
-                </Link>
-            </div>
-        )
+    const { pagBoots, imgSrc, imgAlt, textH3, textP } = props;
+    return (
+        <div className="box">
+            <Link to={pagBoots}>
+                <img src={imgSrc} alt={imgAlt} />
+                <h3>{textH3}</h3>
+                <p>{textP}</p>
+            </Link>
+        </div>
+    )
 }
 
 

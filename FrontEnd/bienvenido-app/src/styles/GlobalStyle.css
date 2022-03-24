@@ -130,6 +130,16 @@ section {
 }
 
 .header .logo {
+  width: 5%;
+}
+
+@media (max-width: 450px) {
+  .header .logo {
+    width: 15%;
+  }
+}
+
+.header .logo-name {
   margin-right: auto;
   font-size: 2.5rem;
   text-transform: capitalize;
@@ -870,6 +880,7 @@ section {
 .faq .accordion-container .accordion.active .accordion-heading i {
   color: #fff;
   -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
   transform: rotate(180deg);
 }
 
@@ -993,6 +1004,14 @@ section {
   margin-bottom: 1rem;
 }
 
+.footer .box-container .box .nombre {
+  width: 100%;
+  padding: 1.2rem 1.4rem;
+  font-size: 1.6rem;
+  border: 0.1rem solid #f59a5e;
+  margin-bottom: 1rem;
+}
+
 .footer .credit {
   text-align: center;
   margin-top: 3rem;
@@ -1006,6 +1025,13 @@ section {
 .footer .credit span {
   color: #f37070;
 }
+.footer .share svg {
+    color: #444;
+    margin: 20px;
+    font-size: 30px;
+    cursor: pointer;
+  }
+
 
 @media (max-width: 1200px) {
   .header {
