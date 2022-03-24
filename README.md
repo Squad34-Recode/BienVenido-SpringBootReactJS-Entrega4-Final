@@ -22,15 +22,17 @@ Link: <https://miro.com/app/board/o9J_lnyNEBg=/>
 
 ## Slides e Videos (Pitch e Demo)
 
-Criamos um Pitch novo (versão 2.0) com as atualizações presentes até o ponto atual (4ª Entrega do Projeto Social). Mantemos os materiais anteriores, para se ter um comparativo cronológico da evolução do projeto. Seguem os links abaixo:
+Criamos a versão final do Pitch (versão 4.0) com as atualizações presentes até o ponto atual (4ª Entrega do Projeto Social). Mantemos os materiais anteriores, para se ter um comparativo cronológico da evolução do projeto. Seguem os links abaixo:
 
 Slides: <https://www.canva.com/design/DAExIk4NAaw/RyvIaaHFbwIj6YAQsY13FA/view?utm_content=DAExIk4NAaw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink>
 
 Video Demo: <https://youtu.be/W7m57yBBZjw>
 
-Pitch 1.0: <https://www.youtube.com/watch?v=-0xjSqlzxls>
+Pitch v1.0: <https://www.youtube.com/watch?v=-0xjSqlzxls>
 
-Pitch 2.0: <https://www.youtube.com/watch?v=cUR5p88H2Q0>
+Pitch v2.0: <https://www.youtube.com/watch?v=cUR5p88H2Q0>
+
+Pitch v4.0 (Final): <https://www.youtube.com/watch?v=6vvcFP3ilvM>
 
 ## Links da Aplicação via Heroku e Firebase
 
