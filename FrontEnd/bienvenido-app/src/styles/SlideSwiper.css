@@ -140,6 +140,7 @@
 
 * .carousel #carousel-content1 {
   background: url(../images/vevenezubra.jpg) no-repeat;
+  background-size: cover;
   background-position: 2%;
 }
 
